@@ -80,7 +80,7 @@ class Profile extends StatelessWidget {
                                     width: 20,
                                   ),
                                   const Text(
-                                    'Level 2',
+                                    'Level 1',
                                     style: TextStyle(
                                         color: Color(0xFFF4CB2B),
                                         fontWeight: FontWeight.bold),
